@@ -11,7 +11,7 @@ This repository contains the data wrangling and exploratory data analysis (EDA) 
 ## Explored & Wrangled Datasets
 - **Food101**: A dataset with 101 food categories, each containing 1,000 images.
 - **UECFoodPixComplete**: A comprehensive dataset for food images.
-- **TrayTrack**: The TrayTrack Dataset consists of 1,854 images specifically designed for tracking food trays. It includes annotations for tray locations in COCO 1.0 format. Augmentation techniques, including geometric transformations (rotation, flipping, cropping) and color transformations (color jittering, grayscaling, brightness/contrast adjustments), were applied to increase the dataset's size and variability. This dataset aims to support experimentation in automated tray tracking for improving operational efficiency in food service environments and dietary management systems.
+- **TrayTrack**: The TrayTrack Dataset consists of 1,854 images specifically designed for tracking food trays. The dataset includes images with annotations for tray locations in COCO 1.0 format. Augmentation techniques, including geometric transformations (rotation, flipping, cropping, etc.) and color transformations (color jittering, grayscaling, brightness/contrast adjustments, etc.), were applied to increase size and variability.
 
   
 ## License
